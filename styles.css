@@ -7,9 +7,10 @@ body, h1, p {
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-    color: #333;
+    color: #041d6e;
     line-height: 1.6;
     padding: 20px;
+    font-size: 20px;
 }
 
 .container {
